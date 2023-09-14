@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Votre Serveur SCUM - Ultime Arene</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1d1d1d;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #222;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        h1 {
+            font-size: 36px;
+            color: #d9534f;
+        }
+
+        nav {
+            background-color: #333;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #ffffff;
+            margin: 10px;
+            font-size: 18px;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #222;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Votre Serveur SCUM - Ultime Arene</h1>
+    </header>
+    
+    <nav>
+        <a href="#">Accueil</a>
+        <a href="#">À propos</a>
+        <a href="#">Règles</a>
+        <a href="#">Forums</a>
+        <a href="#">Contact</a>
+    </nav>
+    
+    <main>
+        <h2>Bienvenue sur Ultime Arene</h2>
+        <p>Découvrez notre serveur SCUM unique où la survie et le PvP se rejoignent dans une expérience passionnante.</p>
+        <p>Caractéristiques de notre serveur :</p>
+        <ul>
+            <li>Augmentation du loot pour des défis stimulants.</li>
+            <li>Événements communautaires hebdomadaires.</li>
+            <li>Une communauté accueillante et active.</li>
+        </ul>
+        <p>Rejoignez-nous aujourd'hui et prouvez que vous avez ce qu'il faut pour survivre dans l'Ultime Arene.</p>
+    </main>
+    
+    <footer>
+        <p>Contactez-nous à contact@ultime-arene-scum.com</p>
+    </footer>
+</body>
+</html>
